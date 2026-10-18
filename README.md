@@ -1,0 +1,2 @@
+# bagbank
+pinjaman
